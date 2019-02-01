@@ -2,7 +2,7 @@ SELECT *
 FROM
 CARS,
 BUSES,
-CYCLES,
+Jet fighters,
 BIKES,
 TRAINS,
 Aeroplanes
