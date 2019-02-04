@@ -5,4 +5,5 @@ BUSES,
 Jet fighters,
 BIKES,
 TRAINS,
-Aeroplanes
+Aeroplanes,
+Monster trucks
